@@ -1,0 +1,4 @@
+/usr/local/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G "CodeBlocks - Unix Makefiles" /home/andrew/CLRF/c-json
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/andrew/CLRF/c-json/cmake-build-debug

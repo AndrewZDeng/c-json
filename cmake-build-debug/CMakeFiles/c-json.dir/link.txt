@@ -1,0 +1,1 @@
+/usr/bin/gcc -g   CMakeFiles/c-json.dir/src/main.c.o CMakeFiles/c-json.dir/src/cJSON.c.o  -o c-json 

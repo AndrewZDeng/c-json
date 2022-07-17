@@ -1,0 +1,3 @@
+/home/andrew/CLRF/c-json/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/andrew/CLRF/c-json/cmake-build-debug/CMakeFiles/c-json.dir
+/home/andrew/CLRF/c-json/cmake-build-debug/CMakeFiles/edit_cache.dir
